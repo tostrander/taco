@@ -1,0 +1,16 @@
+{
+  "name": "tostrander/328/taco",
+  "authors": [
+    {
+      "name": "Tina Ostrander",
+      "email": "tostrander@greenriver.edu"
+    },
+    {
+      "name": "William Wittig",
+      "email": "wwittig@greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
